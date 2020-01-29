@@ -14,6 +14,6 @@ public class addition_without_op {
             num2++;
             num1--;
         }
-        System.out.println("result="+num2);
+        System.out.println("result = "+num2);
     }
 }
