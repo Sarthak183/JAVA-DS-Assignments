@@ -62,7 +62,7 @@ public class longest_palindrome_byuser_choice {
     public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
-        System.out.println("enter the string");
+        System.out.println("Enter the String");
         String str=sc.next();
         System.out.println("enter character and it should be present int he string");
         char ch=sc.next().charAt(0);
@@ -74,7 +74,7 @@ public class longest_palindrome_byuser_choice {
             System.out.println(s);
         }
         else{
-            System.out.println("invalid character");
+            System.out.println("Invalid Character");
         }
     }
 }
