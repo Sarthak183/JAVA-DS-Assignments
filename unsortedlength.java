@@ -31,7 +31,7 @@ public class ques61 {
     public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
-        System.out.println("enter the no. of ebtries in array");
+        System.out.println("enter the no. of entries in array");
         int n=sc.nextInt();
         int arr[]=new int[n];
         for(int i=0;i<n;i++)
