@@ -16,7 +16,7 @@ public class insertanywhere_linklist {
      static node head;
      public static insertanywhere insert(insertanywhere  l1,int data)
      {
-               node temp=new node(data);
+        node temp=new node(data);
         if(l1.head==null)
         {
             l1.head=temp;
