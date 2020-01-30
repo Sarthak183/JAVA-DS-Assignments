@@ -9,7 +9,7 @@ public class chocolate_problem {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter the no. of packets of chocolates");
         int packets=sc.nextInt();
-        System.out.println("enter the no. of chocolates in packets");
+        System.out.println("Enter the no. of chocolates in packets");
         int arr[]=new int[packets];
         for(int i=0;i<packets;i++)
         {
